@@ -11,3 +11,14 @@ body, html {
     background-size: cover;
 
 }
+
+#gif-div {
+    height: 450px;
+}
+
+.searchButton {
+    background: black;
+    color: red;
+    text-align: center;
+    border-color: black;
+}
