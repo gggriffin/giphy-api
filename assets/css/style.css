@@ -12,13 +12,31 @@ body, html {
 
 }
 
-#gif-div {
-    height: 450px;
-}
-
 .searchButton {
     background: black;
-    color: red;
+    color: #a90eac;
     text-align: center;
     border-color: black;
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 1em;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.submitButton {
+    background: #227A7C;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif
+}
+
+.gifButton {
+    height: 200px;
+    width: 250px;
+}
+
+#buttonDiv {
+    margin-top: 1em;
 }
